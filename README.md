@@ -12,6 +12,7 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 2. Temperature Converter
 3. Web Scrapping
 4. Log Exception
+5. Regression / Multi regression / logit Regression
 
 ### Skills
 Python, NumPy, Pandas, Seaborn, Matplotlib, Beautifulsoup, Data viz, 
