@@ -6,7 +6,7 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 - 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning and Deployment.
 - 🤝 Open for job in  analytics,data science and python
 - 👨 Know more about me at https://docs.google.com/document/d/1vhYNIPXRf1GB8lTmHJc6vbHd2PIebOria4ePjbifCXo/edit?usp=sharing
--      LINKEDIN ID :  https://www.linkedin.com/in/sachin- gupta-1a0579181
+-      LINKEDIN ID :  https://www.linkedin.com/in/sachin--gupta
 - 
 ### My Recent projects 
 1. EDA
